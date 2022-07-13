@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sub1inter</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
