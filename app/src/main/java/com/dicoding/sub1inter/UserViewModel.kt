@@ -46,7 +46,7 @@ class UserViewModel: ViewModel() {
 
 
                 if (response.isSuccessful){
-                    _isMessage.value = response.body()?.registerRes
+                    _userregister.value = response.body()?.registerRes
                 }else{
                     Log.e(TAG, "Failure: ${response.message()}")
                 }
